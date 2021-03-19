@@ -1,4 +1,4 @@
-# comandos de git y github
+# Comandos de git y github
 ![Flujo de trabajo de git](https://i.imgur.com/HHZOixy.png "Flujo de trabajo de git")
 
 - **Nota: 
@@ -122,7 +122,9 @@ El comando git stash almacena temporalmente (o guarda en un stash) los cambios q
 - Es una herramienta que ofrece github para poder subir nuestros proyectos como paginas web, sitios, etc tener encuenta que esto solo permite ese tipo de cosas, no sirve para sistemas que usen base de datos
 
 **¿Cómo crear mi hosting gratuito y configurarlo?**
-- Primero crear una rama llamada **gh-pages**(es necesario colocar ese nombre de rama para que github pages funcione) esto creará un hosting a partir de esa rama, luego ir a ![](https://i.imgur.com/K6dHH5Q.png) y bajar hasta ![](https://i.imgur.com/7EA8yaj.png) y ahí encontraremos el link de nuestra página: ![](https://i.imgur.com/oNuou7f.png) podemos cambiar la dirección de la rama a donde queramos que se refleje el proyecto en el hosting dando click en ![](https://i.imgur.com/2VQHu6c.png) y nos aparecerá esto para poder cambiar la rama: ![](https://i.imgur.com/EUYaBuX.png)
+- Primero crear una rama llamada **gh-pages**(es necesario colocar ese nombre de rama para que github pages funcione) esto creará un hosting a partir de esa rama, luego ir a ![](https://i.imgur.com/K6dHH5Q.png) y bajar hasta ![](https://i.imgur.com/7EA8yaj.png) y ahí encontraremos el link de nuestra página: ![](https://i.imgur.com/oNuou7f.png) podemos cambiar la dirección de la rama a donde queramos que se refleje el proyecto en el hosting dando click en ![](https://i.imgur.com/2VQHu6c.png) y nos aparecerá esto para poder cambiar la rama:
+ 
+![](https://i.imgur.com/EUYaBuX.png)
 ### Ayuda
 - Link de apoyo en youtube para crear este sitio comienza desde el minuto: **9:04** [click aquí](https://www.youtube.com/watch?v=QaxgF4v4hms&list=PLDbrnXa6SAzUyitkL4zcnWO07HxG0BvmS&index=18 "click aquí")
 
