@@ -22,6 +22,7 @@ algunos comandos que tengan estas lineas unidas: ![](https://i.imgur.com/kVFhm9H
 
 ## Github
 - **git remote add origin url_git**  sirve para añadir mi proyecto a mi respositorio remoto, **Nota:** hay que tener en cuenta que ya se haya hecho con anterioridad los comandos: git init, git add ., git commit -m "", si no, hacerlo antes de ejecutar el comando git remote
+- **git branch -M main** sirve para crear una rama al cual se subira todo el proyecto, **Nota:** hacer este comando siempre y cuando no exista la rama main creada en el repositorio local, ya que, se tiene que subir el poryecto al repositorio remoto y tiene que existir una rama main, se aplica solo en casos donde existe la rama master y no main
 - **git push -u origin main** sirve para subir mi proyecto al repositorio posteriormente de haberlo hecho con el comando anterior, **Nota:** tener en cuenta de que si es la primera vez que se instala o se ejecuta este comando en git hub saldrá una ventana emergente en el cual tendrás que poner tu nombre de usuario y contraseña de la cuenta de git, caso contrario si ya está vinculada no saldrá nada
 ### Consejo
 - En la página de github también se puede añadir, editar o eliminar y hacer esos commit sin necesidad de hacerlo en algún editor de código si no directamente ahí solo al abrir, **Nota:** tener en cuenta que esto solo es en casos donde el cambio  sea poco o sencillo
